@@ -1,0 +1,2707 @@
+{
+  "metadata": {
+    "test_run_at": "2025-12-15 14:02:57",
+    "total_tests": 90,
+    "samples_per_category": 10,
+    "max_steps": 100,
+    "timeout_seconds": 300,
+    "total_test_time": 1262.4694155000034,
+    "average_time_per_test": 14.027437950000037
+  },
+  "summary": {
+    "total_found": 90,
+    "total_not_found": 0,
+    "total_timeouts": 0,
+    "overall_success_rate": 100.0
+  },
+  "by_combination": {
+    "common -> common": {
+      "total_tests": 10,
+      "found_count": 10,
+      "not_found_count": 0,
+      "timeout_count": 0,
+      "average_time": 10.4985204699944,
+      "average_path_length": 3.5,
+      "average_time_found": 10.4985204699944,
+      "average_time_not_found": 0.0,
+      "tests": [
+        {
+          "start": "Germany national football team",
+          "target": "France national football team",
+          "found": true,
+          "time_taken": 5.557029999996303,
+          "path_length": 1,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Kristen Stewart",
+          "found": true,
+          "time_taken": 11.926531499979319,
+          "path_length": 5,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Rabbit",
+          "found": true,
+          "time_taken": 3.3006631000025664,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Jadon Sancho",
+          "found": true,
+          "time_taken": 2.9812219999730587,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Book of Revelation",
+          "found": true,
+          "time_taken": 15.82584649999626,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Iron Man",
+          "found": true,
+          "time_taken": 44.02518950001104,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Sirius",
+          "found": true,
+          "time_taken": 11.397768499999074,
+          "path_length": 5,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Ronaldinho",
+          "found": true,
+          "time_taken": 4.760194100002991,
+          "path_length": 2,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Snake",
+          "found": true,
+          "time_taken": 2.820743999996921,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "France national football team",
+          "target": "Germany national football team",
+          "found": true,
+          "time_taken": 2.3900154999864753,
+          "path_length": 1,
+          "status": "reached"
+        }
+      ]
+    },
+    "common -> semi_common": {
+      "total_tests": 10,
+      "found_count": 10,
+      "not_found_count": 0,
+      "timeout_count": 0,
+      "average_time": 14.025359619999653,
+      "average_path_length": 4.4,
+      "average_time_found": 14.025359619999653,
+      "average_time_not_found": 0.0,
+      "tests": [
+        {
+          "start": "Germany national football team",
+          "target": "Ælfwynn, wife of Æthelstan Half-King",
+          "found": true,
+          "time_taken": 9.41366290001315,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Æthelred I of Wessex",
+          "found": true,
+          "time_taken": 8.39972809999017,
+          "path_length": 5,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "18th-century glassmaking in the United States",
+          "found": true,
+          "time_taken": 26.06620830000611,
+          "path_length": 7,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "U.S. Route 13 Business (Wilmington, Delaware)",
+          "found": true,
+          "time_taken": 16.60663329999079,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "19th Mechanized Division (Greece)",
+          "found": true,
+          "time_taken": 5.110390200017719,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "1994–95 Gillingham F.C. season",
+          "found": true,
+          "time_taken": 13.179436600010376,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "1906–07 New Brompton F.C. season",
+          "found": true,
+          "time_taken": 4.665655299992068,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Battle of Albuera",
+          "found": true,
+          "time_taken": 8.891315299988491,
+          "path_length": 5,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "28th Virginia battle flag",
+          "found": true,
+          "time_taken": 27.61629209999228,
+          "path_length": 5,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "7 (New York City Subway service)",
+          "found": true,
+          "time_taken": 20.304274099995382,
+          "path_length": 4,
+          "status": "reached"
+        }
+      ]
+    },
+    "common -> random": {
+      "total_tests": 10,
+      "found_count": 10,
+      "not_found_count": 0,
+      "timeout_count": 0,
+      "average_time": 16.333210869997856,
+      "average_path_length": 7.2,
+      "average_time_found": 16.333210869997856,
+      "average_time_not_found": 0.0,
+      "tests": [
+        {
+          "start": "Germany national football team",
+          "target": "2024 European Bowls Championships",
+          "found": true,
+          "time_taken": 15.651427100005094,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Jazan City for Primary and Downstream Industries",
+          "found": true,
+          "time_taken": 20.418934399989666,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Falling in Love Again (2003 film)",
+          "found": true,
+          "time_taken": 18.795206600014353,
+          "path_length": 12,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Mag TV Na",
+          "found": true,
+          "time_taken": 14.70401590000256,
+          "path_length": 5,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Arthur Chipman",
+          "found": true,
+          "time_taken": 14.353940699977102,
+          "path_length": 9,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "2019 Gaza economic protests",
+          "found": true,
+          "time_taken": 3.6847932999953628,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Bulimoscilla",
+          "found": true,
+          "time_taken": 29.769867599999998,
+          "path_length": 10,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "ALDH1A3",
+          "found": true,
+          "time_taken": 18.996124400000554,
+          "path_length": 7,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Jesse Mast",
+          "found": true,
+          "time_taken": 22.490225099987583,
+          "path_length": 13,
+          "status": "reached"
+        },
+        {
+          "start": "Germany national football team",
+          "target": "Sashi Mahendra Singh",
+          "found": true,
+          "time_taken": 4.46757360000629,
+          "path_length": 5,
+          "status": "reached"
+        }
+      ]
+    },
+    "semi_common -> common": {
+      "total_tests": 10,
+      "found_count": 10,
+      "not_found_count": 0,
+      "timeout_count": 0,
+      "average_time": 10.974044500000309,
+      "average_path_length": 4.6,
+      "average_time_found": 10.974044500000309,
+      "average_time_not_found": 0.0,
+      "tests": [
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Germany national football team",
+          "found": true,
+          "time_taken": 4.987206799996784,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "France national football team",
+          "found": true,
+          "time_taken": 7.2464695000089705,
+          "path_length": 5,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Kristen Stewart",
+          "found": true,
+          "time_taken": 6.5585596000018995,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Rabbit",
+          "found": true,
+          "time_taken": 13.45108710002387,
+          "path_length": 5,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Jadon Sancho",
+          "found": true,
+          "time_taken": 16.04897949998849,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Book of Revelation",
+          "found": true,
+          "time_taken": 2.294696600001771,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Iron Man",
+          "found": true,
+          "time_taken": 4.707096900005126,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Sirius",
+          "found": true,
+          "time_taken": 41.14073390001431,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Ronaldinho",
+          "found": true,
+          "time_taken": 7.660722699976759,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Snake",
+          "found": true,
+          "time_taken": 5.64489239998511,
+          "path_length": 5,
+          "status": "reached"
+        }
+      ]
+    },
+    "semi_common -> semi_common": {
+      "total_tests": 10,
+      "found_count": 10,
+      "not_found_count": 0,
+      "timeout_count": 0,
+      "average_time": 6.923653560003731,
+      "average_path_length": 4.7,
+      "average_time_found": 6.923653560003731,
+      "average_time_not_found": 0.0,
+      "tests": [
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Æthelred I of Wessex",
+          "found": true,
+          "time_taken": 2.373310199996922,
+          "path_length": 2,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "18th-century glassmaking in the United States",
+          "found": true,
+          "time_taken": 10.094973300001584,
+          "path_length": 7,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "U.S. Route 13 Business (Wilmington, Delaware)",
+          "found": true,
+          "time_taken": 8.996171800012235,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "19th Mechanized Division (Greece)",
+          "found": true,
+          "time_taken": 15.728802400000859,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "1994–95 Gillingham F.C. season",
+          "found": true,
+          "time_taken": 4.328586700023152,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "1906–07 New Brompton F.C. season",
+          "found": true,
+          "time_taken": 7.5432905000052415,
+          "path_length": 7,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Battle of Albuera",
+          "found": true,
+          "time_taken": 7.085042899998371,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "28th Virginia battle flag",
+          "found": true,
+          "time_taken": 4.079216300015105,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "7 (New York City Subway service)",
+          "found": true,
+          "time_taken": 6.506165799975861,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "Æthelred I of Wessex",
+          "target": "Ælfwynn, wife of Æthelstan Half-King",
+          "found": true,
+          "time_taken": 2.5009757000079844,
+          "path_length": 3,
+          "status": "reached"
+        }
+      ]
+    },
+    "semi_common -> random": {
+      "total_tests": 10,
+      "found_count": 10,
+      "not_found_count": 0,
+      "timeout_count": 0,
+      "average_time": 24.517224950002856,
+      "average_path_length": 10.9,
+      "average_time_found": 24.517224950002856,
+      "average_time_not_found": 0.0,
+      "tests": [
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "2024 European Bowls Championships",
+          "found": true,
+          "time_taken": 27.037112899997737,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Jazan City for Primary and Downstream Industries",
+          "found": true,
+          "time_taken": 23.29029510001419,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Falling in Love Again (2003 film)",
+          "found": true,
+          "time_taken": 14.22010509998654,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Mag TV Na",
+          "found": true,
+          "time_taken": 20.877009999996517,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Arthur Chipman",
+          "found": true,
+          "time_taken": 52.7414667000121,
+          "path_length": 30,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "2019 Gaza economic protests",
+          "found": true,
+          "time_taken": 9.919443999999203,
+          "path_length": 7,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Bulimoscilla",
+          "found": true,
+          "time_taken": 29.092878700001165,
+          "path_length": 17,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "ALDH1A3",
+          "found": true,
+          "time_taken": 23.67947020000429,
+          "path_length": 10,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Jesse Mast",
+          "found": true,
+          "time_taken": 25.44469790000585,
+          "path_length": 10,
+          "status": "reached"
+        },
+        {
+          "start": "Ælfwynn, wife of Æthelstan Half-King",
+          "target": "Sashi Mahendra Singh",
+          "found": true,
+          "time_taken": 18.869768900010968,
+          "path_length": 11,
+          "status": "reached"
+        }
+      ]
+    },
+    "random -> common": {
+      "total_tests": 10,
+      "found_count": 10,
+      "not_found_count": 0,
+      "timeout_count": 0,
+      "average_time": 11.82085284999921,
+      "average_path_length": 5.4,
+      "average_time_found": 11.82085284999921,
+      "average_time_not_found": 0.0,
+      "tests": [
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Germany national football team",
+          "found": true,
+          "time_taken": 4.783969200012507,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "France national football team",
+          "found": true,
+          "time_taken": 3.8372573999804445,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Kristen Stewart",
+          "found": true,
+          "time_taken": 22.091903499996988,
+          "path_length": 9,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Rabbit",
+          "found": true,
+          "time_taken": 4.475570799986599,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Jadon Sancho",
+          "found": true,
+          "time_taken": 31.992002400016645,
+          "path_length": 13,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Book of Revelation",
+          "found": true,
+          "time_taken": 4.2490966000186745,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Iron Man",
+          "found": true,
+          "time_taken": 17.72306469999603,
+          "path_length": 5,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Sirius",
+          "found": true,
+          "time_taken": 17.313900599983754,
+          "path_length": 7,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Ronaldinho",
+          "found": true,
+          "time_taken": 5.04702769999858,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Snake",
+          "found": true,
+          "time_taken": 6.694735600001877,
+          "path_length": 3,
+          "status": "reached"
+        }
+      ]
+    },
+    "random -> semi_common": {
+      "total_tests": 10,
+      "found_count": 10,
+      "not_found_count": 0,
+      "timeout_count": 0,
+      "average_time": 10.08130263000785,
+      "average_path_length": 8.2,
+      "average_time_found": 10.08130263000785,
+      "average_time_not_found": 0.0,
+      "tests": [
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Ælfwynn, wife of Æthelstan Half-King",
+          "found": true,
+          "time_taken": 4.396253100014292,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Æthelred I of Wessex",
+          "found": true,
+          "time_taken": 3.9271027000213508,
+          "path_length": 3,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "18th-century glassmaking in the United States",
+          "found": true,
+          "time_taken": 10.296581600006903,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "U.S. Route 13 Business (Wilmington, Delaware)",
+          "found": true,
+          "time_taken": 4.1753771000076085,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "19th Mechanized Division (Greece)",
+          "found": true,
+          "time_taken": 10.753723900008481,
+          "path_length": 17,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "1994–95 Gillingham F.C. season",
+          "found": true,
+          "time_taken": 6.844171200005803,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "1906–07 New Brompton F.C. season",
+          "found": true,
+          "time_taken": 29.04189170000609,
+          "path_length": 21,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Battle of Albuera",
+          "found": true,
+          "time_taken": 7.511170300014783,
+          "path_length": 11,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "28th Virginia battle flag",
+          "found": true,
+          "time_taken": 15.486813800001983,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "7 (New York City Subway service)",
+          "found": true,
+          "time_taken": 8.379940899991198,
+          "path_length": 4,
+          "status": "reached"
+        }
+      ]
+    },
+    "random -> random": {
+      "total_tests": 10,
+      "found_count": 10,
+      "not_found_count": 0,
+      "timeout_count": 0,
+      "average_time": 20.62214956000389,
+      "average_path_length": 10.9,
+      "average_time_found": 20.62214956000389,
+      "average_time_not_found": 0.0,
+      "tests": [
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Jazan City for Primary and Downstream Industries",
+          "found": true,
+          "time_taken": 14.417852799990214,
+          "path_length": 8,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Falling in Love Again (2003 film)",
+          "found": true,
+          "time_taken": 7.919051300006686,
+          "path_length": 7,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Mag TV Na",
+          "found": true,
+          "time_taken": 38.433716400002595,
+          "path_length": 20,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Arthur Chipman",
+          "found": true,
+          "time_taken": 17.04493820000789,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "2019 Gaza economic protests",
+          "found": true,
+          "time_taken": 6.076826400007121,
+          "path_length": 4,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Bulimoscilla",
+          "found": true,
+          "time_taken": 25.79033580000396,
+          "path_length": 14,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "ALDH1A3",
+          "found": true,
+          "time_taken": 26.739971000002697,
+          "path_length": 18,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Jesse Mast",
+          "found": true,
+          "time_taken": 19.966021700005513,
+          "path_length": 6,
+          "status": "reached"
+        },
+        {
+          "start": "2024 European Bowls Championships",
+          "target": "Sashi Mahendra Singh",
+          "found": true,
+          "time_taken": 11.04519450000953,
+          "path_length": 5,
+          "status": "reached"
+        },
+        {
+          "start": "Jazan City for Primary and Downstream Industries",
+          "target": "2024 European Bowls Championships",
+          "found": true,
+          "time_taken": 38.7875875000027,
+          "path_length": 21,
+          "status": "reached"
+        }
+      ]
+    }
+  },
+  "all_results": [
+    {
+      "start": "Germany national football team",
+      "target": "France national football team",
+      "found": true,
+      "time_taken": 5.557029999996303,
+      "path_length": 1,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "France national football team"
+      ],
+      "source_category": "common",
+      "target_category": "common",
+      "combination": "common -> common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Kristen Stewart",
+      "found": true,
+      "time_taken": 11.926531499979319,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Hans Tilkowski",
+        "Jenő Csaknády",
+        "Germany",
+        "Wim Wenders",
+        "Kristen Stewart"
+      ],
+      "source_category": "common",
+      "target_category": "common",
+      "combination": "common -> common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Rabbit",
+      "found": true,
+      "time_taken": 3.3006631000025664,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Dávid Hancko",
+        "Slovakia",
+        "Rabbit"
+      ],
+      "source_category": "common",
+      "target_category": "common",
+      "combination": "common -> common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Jadon Sancho",
+      "found": true,
+      "time_taken": 2.9812219999730587,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Andreas Möller",
+        "England national football team",
+        "Jadon Sancho"
+      ],
+      "source_category": "common",
+      "target_category": "common",
+      "combination": "common -> common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Book of Revelation",
+      "found": true,
+      "time_taken": 15.82584649999626,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "The Guardian",
+        "Sunday editions",
+        "Book",
+        "Nazi Germany",
+        "Messiah",
+        "Book of Revelation"
+      ],
+      "source_category": "common",
+      "target_category": "common",
+      "combination": "common -> common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Iron Man",
+      "found": true,
+      "time_taken": 44.02518950001104,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Nazi Germany",
+        "Economy of Germany",
+        "Mercedes-Benz Group",
+        "Mitsubishi Motors",
+        "Acura",
+        "Iron Man"
+      ],
+      "source_category": "common",
+      "target_category": "common",
+      "combination": "common -> common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Sirius",
+      "found": true,
+      "time_taken": 11.397768499999074,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Baku",
+        "Kaliningrad",
+        "Germany",
+        "Karlheinz Stockhausen",
+        "Sirius"
+      ],
+      "source_category": "common",
+      "target_category": "common",
+      "combination": "common -> common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Ronaldinho",
+      "found": true,
+      "time_taken": 4.760194100002991,
+      "path_length": 2,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Diego Maradona",
+        "Ronaldinho"
+      ],
+      "source_category": "common",
+      "target_category": "common",
+      "combination": "common -> common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Snake",
+      "found": true,
+      "time_taken": 2.820743999996921,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Australia",
+        "The Gambia",
+        "Snake"
+      ],
+      "source_category": "common",
+      "target_category": "common",
+      "combination": "common -> common"
+    },
+    {
+      "start": "France national football team",
+      "target": "Germany national football team",
+      "found": true,
+      "time_taken": 2.3900154999864753,
+      "path_length": 1,
+      "status": "reached",
+      "path": [
+        "France national football team",
+        "Germany national football team"
+      ],
+      "source_category": "common",
+      "target_category": "common",
+      "combination": "common -> common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Ælfwynn, wife of Æthelstan Half-King",
+      "found": true,
+      "time_taken": 9.41366290001315,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Denmark",
+        "Anglo-Saxons",
+        "Eadred",
+        "Ælfwynn, wife of Æthelstan Half-King"
+      ],
+      "source_category": "common",
+      "target_category": "semi_common",
+      "combination": "common -> semi_common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Æthelred I of Wessex",
+      "found": true,
+      "time_taken": 8.39972809999017,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Denmark",
+        "Anglo-Saxons",
+        "Germanic name",
+        "Ealhswith",
+        "Æthelred I of Wessex"
+      ],
+      "source_category": "common",
+      "target_category": "semi_common",
+      "combination": "common -> semi_common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "18th-century glassmaking in the United States",
+      "found": true,
+      "time_taken": 26.06620830000611,
+      "path_length": 7,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "United States",
+        "American system of manufacturing",
+        "History of manufacturing",
+        "Glass production",
+        "History of glass",
+        "18th century glassmaking in the United States",
+        "18th-century glassmaking in the United States"
+      ],
+      "source_category": "common",
+      "target_category": "semi_common",
+      "combination": "common -> semi_common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "U.S. Route 13 Business (Wilmington, Delaware)",
+      "found": true,
+      "time_taken": 16.60663329999079,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "United States",
+        "Delaware",
+        "Ardencroft, Delaware",
+        "U.S. Route 13 Business (Wilmington, Delaware)"
+      ],
+      "source_category": "common",
+      "target_category": "semi_common",
+      "combination": "common -> semi_common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "19th Mechanized Division (Greece)",
+      "found": true,
+      "time_taken": 5.110390200017719,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Greece",
+        "Hellenic Army",
+        "19th Mechanized Division (Greece)"
+      ],
+      "source_category": "common",
+      "target_category": "semi_common",
+      "combination": "common -> semi_common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "1994–95 Gillingham F.C. season",
+      "found": true,
+      "time_taken": 13.179436600010376,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Liverpool F.C.",
+        "1994–95 Liverpool F.C. season",
+        "1994–95 Midland Football Combination",
+        "1994–95 Gillingham F.C. season"
+      ],
+      "source_category": "common",
+      "target_category": "semi_common",
+      "combination": "common -> semi_common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "1906–07 New Brompton F.C. season",
+      "found": true,
+      "time_taken": 4.665655299992068,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Newcastle United F.C.",
+        "1906–07 Football League",
+        "1906–07 New Brompton F.C. season"
+      ],
+      "source_category": "common",
+      "target_category": "semi_common",
+      "combination": "common -> semi_common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Battle of Albuera",
+      "found": true,
+      "time_taken": 8.891315299988491,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Felix Magath",
+        "Alwin Riemke",
+        "Leipzig",
+        "Battle of Leipzig",
+        "Battle of Albuera"
+      ],
+      "source_category": "common",
+      "target_category": "semi_common",
+      "combination": "common -> semi_common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "28th Virginia battle flag",
+      "found": true,
+      "time_taken": 27.61629209999228,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Flag of Germany",
+        "Civil flag",
+        "Flags of the Confederate States of America",
+        "28th Virginia Infantry Regiment",
+        "28th Virginia battle flag"
+      ],
+      "source_category": "common",
+      "target_category": "semi_common",
+      "combination": "common -> semi_common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "7 (New York City Subway service)",
+      "found": true,
+      "time_taken": 20.304274099995382,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "The New York Times",
+        "Manhattan",
+        "New York Mets",
+        "7 (New York City Subway service)"
+      ],
+      "source_category": "common",
+      "target_category": "semi_common",
+      "combination": "common -> semi_common"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "2024 European Bowls Championships",
+      "found": true,
+      "time_taken": 15.651427100005094,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Germany women's national cricket team",
+        "Jersey women's cricket team",
+        "Chloe Greechan",
+        "2024 European Bowls Championships"
+      ],
+      "source_category": "common",
+      "target_category": "random",
+      "combination": "common -> random"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Jazan City for Primary and Downstream Industries",
+      "found": true,
+      "time_taken": 20.418934399989666,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Greece",
+        "Saudi Arabia",
+        "Jazan Province",
+        "Jazan City for Primary and Downstream Industries"
+      ],
+      "source_category": "common",
+      "target_category": "random",
+      "combination": "common -> random"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Falling in Love Again (2003 film)",
+      "found": true,
+      "time_taken": 18.795206600014353,
+      "path_length": 12,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "2001 FIFA Confederations Cup",
+        "2001 Mito HollyHock season",
+        "2003 Mito HollyHock season",
+        "2004 Mito HollyHock season",
+        "2004 J.League Cup",
+        "2004 S.League",
+        "Germany",
+        "Outline of Germany",
+        "1962 in Germany",
+        "12th Berlin International Film Festival",
+        "Nahanni (film)",
+        "Falling in Love Again (2003 film)"
+      ],
+      "source_category": "common",
+      "target_category": "random",
+      "combination": "common -> random"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Mag TV Na",
+      "found": true,
+      "time_taken": 14.70401590000256,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "ARD (broadcaster)",
+        "Asia Television",
+        "BeIN Sports",
+        "ABS-CBN Regional Channel",
+        "Mag TV Na"
+      ],
+      "source_category": "common",
+      "target_category": "random",
+      "combination": "common -> random"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Arthur Chipman",
+      "found": true,
+      "time_taken": 14.353940699977102,
+      "path_length": 9,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Tom Bischof",
+        "Harry Kane",
+        "Gary Lineker",
+        "Alvin Martin",
+        "Association football",
+        "Major League Soccer",
+        "Canadian Football League",
+        "Mike O'Shea (Canadian football)",
+        "Arthur Chipman"
+      ],
+      "source_category": "common",
+      "target_category": "random",
+      "combination": "common -> random"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "2019 Gaza economic protests",
+      "found": true,
+      "time_taken": 3.6847932999953628,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Qatar",
+        "Hamas",
+        "2019 Gaza economic protests"
+      ],
+      "source_category": "common",
+      "target_category": "random",
+      "combination": "common -> random"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Bulimoscilla",
+      "found": true,
+      "time_taken": 29.769867599999998,
+      "path_length": 10,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "List of football clubs in Germany",
+        "Mannheim",
+        "Germanic name",
+        "Rüdiger",
+        "Rüdiger Bieler",
+        "Alan Solem",
+        "Dolf van Bruggen",
+        "Adolph Cornelis van Bruggen",
+        "Pyramidellidae",
+        "Bulimoscilla"
+      ],
+      "source_category": "common",
+      "target_category": "random",
+      "combination": "common -> random"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "ALDH1A3",
+      "found": true,
+      "time_taken": 18.996124400000554,
+      "path_length": 7,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "2006 FIFA World Cup squads",
+        "Petit (Portuguese footballer)",
+        "2005–06 S.L. Benfica season",
+        "Bruno (name)",
+        "Bruno Reversade",
+        "Aldehyde dehydrogenase 18 family, member A1",
+        "ALDH1A3"
+      ],
+      "source_category": "common",
+      "target_category": "random",
+      "combination": "common -> random"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Jesse Mast",
+      "found": true,
+      "time_taken": 22.490225099987583,
+      "path_length": 13,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Robin Koch",
+        "Jesse Marsch",
+        "Bill Lambton",
+        "Mark Robins",
+        "Chris Wilder",
+        "Liam Cooper",
+        "Cardiff City F.C.",
+        "Cardiff Devils",
+        "Southampton Vikings",
+        "Nottingham Panthers",
+        "British Columbia Hockey League",
+        "Salmon Arm",
+        "Jesse Mast"
+      ],
+      "source_category": "common",
+      "target_category": "random",
+      "combination": "common -> random"
+    },
+    {
+      "start": "Germany national football team",
+      "target": "Sashi Mahendra Singh",
+      "found": true,
+      "time_taken": 4.46757360000629,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "Germany national football team",
+        "Christian Schulz",
+        "Kevin Kurányi",
+        "Hungary national football team",
+        "Fiji national football team",
+        "Sashi Mahendra Singh"
+      ],
+      "source_category": "common",
+      "target_category": "random",
+      "combination": "common -> random"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Germany national football team",
+      "found": true,
+      "time_taken": 4.987206799996784,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Michael Lapidge",
+        "Munich",
+        "Ansbach",
+        "Germany national football team"
+      ],
+      "source_category": "semi_common",
+      "target_category": "common",
+      "combination": "semi_common -> common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "France national football team",
+      "found": true,
+      "time_taken": 7.2464695000089705,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Eadwig",
+        "Louis VII of France",
+        "Richard I of England",
+        "England national football team",
+        "France national football team"
+      ],
+      "source_category": "semi_common",
+      "target_category": "common",
+      "combination": "semi_common -> common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Kristen Stewart",
+      "found": true,
+      "time_taken": 6.5585596000018995,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Virgin Mary",
+        "Lina Sastri",
+        "Liv Ullmann",
+        "Kristen Stewart"
+      ],
+      "source_category": "semi_common",
+      "target_category": "common",
+      "combination": "semi_common -> common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Rabbit",
+      "found": true,
+      "time_taken": 13.45108710002387,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "St Peter",
+        "Rooster",
+        "Animal",
+        "Lobster",
+        "Rabbit"
+      ],
+      "source_category": "semi_common",
+      "target_category": "common",
+      "combination": "semi_common -> common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Jadon Sancho",
+      "found": true,
+      "time_taken": 16.04897949998849,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Eadred",
+        "Richard I of England",
+        "England national football team",
+        "Jadon Sancho"
+      ],
+      "source_category": "semi_common",
+      "target_category": "common",
+      "combination": "semi_common -> common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Book of Revelation",
+      "found": true,
+      "time_taken": 2.294696600001771,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Archbishop of York",
+        "King James Version",
+        "Book of Revelation"
+      ],
+      "source_category": "semi_common",
+      "target_category": "common",
+      "combination": "semi_common -> common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Iron Man",
+      "found": true,
+      "time_taken": 4.707096900005126,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Alfred the Great",
+        "Thor",
+        "Firelord (character)",
+        "Iron Man"
+      ],
+      "source_category": "semi_common",
+      "target_category": "common",
+      "combination": "semi_common -> common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Sirius",
+      "found": true,
+      "time_taken": 41.14073390001431,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Edmund I",
+        "Kingdom of Gwynedd",
+        "Medieval Welsh literature",
+        "Catherine of Alexandria",
+        "Roman Egypt",
+        "Sirius"
+      ],
+      "source_category": "semi_common",
+      "target_category": "common",
+      "combination": "semi_common -> common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Ronaldinho",
+      "found": true,
+      "time_taken": 7.660722699976759,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Chamberlain (office)",
+        "Diego Velázquez",
+        "Barcelona",
+        "Vallbona d'Anoia",
+        "Castelldefels",
+        "Ronaldinho"
+      ],
+      "source_category": "semi_common",
+      "target_category": "common",
+      "combination": "semi_common -> common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Snake",
+      "found": true,
+      "time_taken": 5.64489239998511,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Magnate",
+        "Plutus",
+        "Aegle (mythology)",
+        "Ariadne",
+        "Snake"
+      ],
+      "source_category": "semi_common",
+      "target_category": "common",
+      "combination": "semi_common -> common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Æthelred I of Wessex",
+      "found": true,
+      "time_taken": 2.373310199996922,
+      "path_length": 2,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Æthelred the Unready",
+        "Æthelred I of Wessex"
+      ],
+      "source_category": "semi_common",
+      "target_category": "semi_common",
+      "combination": "semi_common -> semi_common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "18th-century glassmaking in the United States",
+      "found": true,
+      "time_taken": 10.094973300001584,
+      "path_length": 7,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Archbishop of York",
+        "William of York",
+        "Stained glass",
+        "Art glass",
+        "Glass history",
+        "18th century glassmaking in the United States",
+        "18th-century glassmaking in the United States"
+      ],
+      "source_category": "semi_common",
+      "target_category": "semi_common",
+      "combination": "semi_common -> semi_common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "U.S. Route 13 Business (Wilmington, Delaware)",
+      "found": true,
+      "time_taken": 8.996171800012235,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "St Peter",
+        "Philadelphia",
+        "Wilmington, Delaware",
+        "U.S. Route 13 Business (Wilmington, Delaware)"
+      ],
+      "source_category": "semi_common",
+      "target_category": "semi_common",
+      "combination": "semi_common -> semi_common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "19th Mechanized Division (Greece)",
+      "found": true,
+      "time_taken": 15.728802400000859,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Medieval Latin",
+        "Ancient Roman engineering",
+        "Architecture of Ancient Greece",
+        "History of Greece",
+        "Hellenic Army",
+        "19th Mechanized Division (Greece)"
+      ],
+      "source_category": "semi_common",
+      "target_category": "semi_common",
+      "combination": "semi_common -> semi_common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "1994–95 Gillingham F.C. season",
+      "found": true,
+      "time_taken": 4.328586700023152,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "East Anglia",
+        "Colchester United F.C.",
+        "Joe Dunne",
+        "1994–95 Gillingham F.C. season"
+      ],
+      "source_category": "semi_common",
+      "target_category": "semi_common",
+      "combination": "semi_common -> semi_common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "1906–07 New Brompton F.C. season",
+      "found": true,
+      "time_taken": 7.5432905000052415,
+      "path_length": 7,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "East Anglia",
+        "Colchester United F.C.",
+        "1968–69 Colchester United F.C. season",
+        "1968–69 Sussex County Football League",
+        "1950–51 Sussex County Football League",
+        "1950–51 Gillingham F.C. season",
+        "1906–07 New Brompton F.C. season"
+      ],
+      "source_category": "semi_common",
+      "target_category": "semi_common",
+      "combination": "semi_common -> semi_common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Battle of Albuera",
+      "found": true,
+      "time_taken": 7.085042899998371,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Alfred the Great",
+        "Battle of Assandun",
+        "Battle of Rastarkalv",
+        "Harald Greycloak",
+        "Frederick VI of Denmark",
+        "Battle of Albuera"
+      ],
+      "source_category": "semi_common",
+      "target_category": "semi_common",
+      "combination": "semi_common -> semi_common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "28th Virginia battle flag",
+      "found": true,
+      "time_taken": 4.079216300015105,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Virgin Mary",
+        "Christmas in the American Civil War",
+        "History of Minnesota",
+        "28th Virginia battle flag"
+      ],
+      "source_category": "semi_common",
+      "target_category": "semi_common",
+      "combination": "semi_common -> semi_common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "7 (New York City Subway service)",
+      "found": true,
+      "time_taken": 6.506165799975861,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Chamberlain (office)",
+        "New York City",
+        "Queens",
+        "7 (New York City Subway service)"
+      ],
+      "source_category": "semi_common",
+      "target_category": "semi_common",
+      "combination": "semi_common -> semi_common"
+    },
+    {
+      "start": "Æthelred I of Wessex",
+      "target": "Ælfwynn, wife of Æthelstan Half-King",
+      "found": true,
+      "time_taken": 2.5009757000079844,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "Æthelred I of Wessex",
+        "Ælfgifu, wife of Eadwig",
+        "Edward the Martyr",
+        "Ælfwynn, wife of Æthelstan Half-King"
+      ],
+      "source_category": "semi_common",
+      "target_category": "semi_common",
+      "combination": "semi_common -> semi_common"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "2024 European Bowls Championships",
+      "found": true,
+      "time_taken": 27.037112899997737,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Æthelred the Unready",
+        "History of England",
+        "England cricket team",
+        "Jersey women's cricket team",
+        "Chloe Greechan",
+        "2024 European Bowls Championships"
+      ],
+      "source_category": "semi_common",
+      "target_category": "random",
+      "combination": "semi_common -> random"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Jazan City for Primary and Downstream Industries",
+      "found": true,
+      "time_taken": 23.29029510001419,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "St Peter",
+        "Poznań",
+        "Kingdom of Prussia",
+        "Kingdom of Yemen",
+        "Jazan Province",
+        "Jazan City for Primary and Downstream Industries"
+      ],
+      "source_category": "semi_common",
+      "target_category": "random",
+      "combination": "semi_common -> random"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Falling in Love Again (2003 film)",
+      "found": true,
+      "time_taken": 14.22010509998654,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Virgin Mary",
+        "Love",
+        "Falling in love",
+        "Falling in Love (disambiguation)",
+        "Falling in Love Again (disambiguation)",
+        "Falling in Love Again (2003 film)"
+      ],
+      "source_category": "semi_common",
+      "target_category": "random",
+      "combination": "semi_common -> random"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Mag TV Na",
+      "found": true,
+      "time_taken": 20.877009999996517,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Æthelred the Unready",
+        "Ætheling",
+        "Ethel",
+        "Ethel Booba",
+        "Nicole Uysiuseng",
+        "Mag TV Na"
+      ],
+      "source_category": "semi_common",
+      "target_category": "random",
+      "combination": "semi_common -> random"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Arthur Chipman",
+      "found": true,
+      "time_taken": 52.7414667000121,
+      "path_length": 30,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Oswald of Worcester",
+        "Cyril Garbett",
+        "Randall Davidson",
+        "Arthur Balfour",
+        "David Lammy",
+        "Gary Lineker",
+        "Steve Perryman",
+        "Arthur Rowe",
+        "Arthur Dickinson",
+        "Alan Ashman",
+        "Arthur Mann",
+        "Gary Megson",
+        "Ron Ashman",
+        "Steve Cammack",
+        "Gary Hooper",
+        "Allan McGregor",
+        "Ryan Kent",
+        "Billy McKinlay",
+        "Scott Booth",
+        "Colin McMenamin",
+        "Bobby Williamson",
+        "Gerry McCabe",
+        "Billy Lamont",
+        "Dan McLindon",
+        "Scott Agnew",
+        "Andy Dowie",
+        "Andrew Dowie",
+        "Neil Lumsden",
+        "Alondra Johnson",
+        "Arthur Chipman"
+      ],
+      "source_category": "semi_common",
+      "target_category": "random",
+      "combination": "semi_common -> random"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "2019 Gaza economic protests",
+      "found": true,
+      "time_taken": 9.919443999999203,
+      "path_length": 7,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Saint",
+        "Jacob",
+        "Israel (name)",
+        "History of ancient Israel and Judah",
+        "Ashkelon",
+        "Khaled Mashal",
+        "2019 Gaza economic protests"
+      ],
+      "source_category": "semi_common",
+      "target_category": "random",
+      "combination": "semi_common -> random"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Bulimoscilla",
+      "found": true,
+      "time_taken": 29.092878700001165,
+      "path_length": 17,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "St Peter",
+        "Bithynia",
+        "Belgica Prima",
+        "Belgae",
+        "Cantiaci",
+        "Cassivellaunus",
+        "List of legendary kings of Britain",
+        "Eurystheus",
+        "Nobility",
+        "List of fictional nobility",
+        "List of geneticists",
+        "Caenorhabditis elegans",
+        "Coronella elegans",
+        "C. elegans (disambiguation)",
+        "Liamorpha elegans",
+        "Pyramidellidae",
+        "Bulimoscilla"
+      ],
+      "source_category": "semi_common",
+      "target_category": "random",
+      "combination": "semi_common -> random"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "ALDH1A3",
+      "found": true,
+      "time_taken": 23.67947020000429,
+      "path_length": 10,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Edmund I",
+        "Henry VIII",
+        "Munster",
+        "Irish mythology",
+        "Entheogen",
+        "Levorphanol",
+        "Kynurenine",
+        "Kynureninase",
+        "Aldehyde dehydrogenase 4 family, member A1",
+        "ALDH1A3"
+      ],
+      "source_category": "semi_common",
+      "target_category": "random",
+      "combination": "semi_common -> random"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Jesse Mast",
+      "found": true,
+      "time_taken": 25.44469790000585,
+      "path_length": 10,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Alfred the Great",
+        "Æthelred the Unready",
+        "James II of England",
+        "Heneage Finch, 1st Earl of Aylesford",
+        "Guildford (UK Parliament constituency)",
+        "Surrey-Guildford",
+        "Shuswap (electoral district)",
+        "Salmon Arm-Shuswap",
+        "Salmon Arm",
+        "Jesse Mast"
+      ],
+      "source_category": "semi_common",
+      "target_category": "random",
+      "combination": "semi_common -> random"
+    },
+    {
+      "start": "Ælfwynn, wife of Æthelstan Half-King",
+      "target": "Sashi Mahendra Singh",
+      "found": true,
+      "time_taken": 18.869768900010968,
+      "path_length": 11,
+      "status": "reached",
+      "path": [
+        "Ælfwynn, wife of Æthelstan Half-King",
+        "Edmund I",
+        "Kingdom of Gwynedd",
+        "List of Welsh people",
+        "Terry Hennessey",
+        "Hennes Weisweiler",
+        "Hannes Löhr",
+        "Olaf Janßen",
+        "Rainer Adrion",
+        "Rainer Zobel",
+        "Rudi Gutendorf",
+        "Sashi Mahendra Singh"
+      ],
+      "source_category": "semi_common",
+      "target_category": "random",
+      "combination": "semi_common -> random"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Germany national football team",
+      "found": true,
+      "time_taken": 4.783969200012507,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "England",
+        "UEFA",
+        "Germany national football team"
+      ],
+      "source_category": "random",
+      "target_category": "common",
+      "combination": "random -> common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "France national football team",
+      "found": true,
+      "time_taken": 3.8372573999804445,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "England",
+        "UEFA",
+        "France national football team"
+      ],
+      "source_category": "random",
+      "target_category": "common",
+      "combination": "random -> common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Kristen Stewart",
+      "found": true,
+      "time_taken": 22.091903499996988,
+      "path_length": 9,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "2024 FIL European Luge Championships",
+        "2023 FIL European Luge Championships",
+        "2023 European Diving Championships",
+        "2025 European U-23 Swimming Championships",
+        "2027",
+        "2020s",
+        "1990s",
+        "Whoopi Goldberg",
+        "Kristen Stewart"
+      ],
+      "source_category": "random",
+      "target_category": "common",
+      "combination": "random -> common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Rabbit",
+      "found": true,
+      "time_taken": 4.475570799986599,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Jersey",
+        "Slovakia",
+        "Rabbit"
+      ],
+      "source_category": "random",
+      "target_category": "common",
+      "combination": "random -> common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Jadon Sancho",
+      "found": true,
+      "time_taken": 31.992002400016645,
+      "path_length": 13,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "2024 Rugby Europe Championship",
+        "2024 in sports",
+        "2024–25 UEFA Champions League qualifying",
+        "2024-25 UEFA Nations League D",
+        "2024–25 UEFA Nations League D",
+        "2025 UEFA Nations League Finals",
+        "2025 UEFA European Under-19 Championship qualification",
+        "2026 UEFA European Under-19 Championship qualification",
+        "2026 UEFA European Under-17 Championship qualification",
+        "2029 UEFA European Under-17 Championship",
+        "2000 UEFA European Under-16 Championship",
+        "2017 UEFA European Under-17 Championship qualification",
+        "Jadon Sancho"
+      ],
+      "source_category": "random",
+      "target_category": "common",
+      "combination": "random -> common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Book of Revelation",
+      "found": true,
+      "time_taken": 4.2490966000186745,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Israel",
+        "Constantine the Great",
+        "Knights Templar",
+        "Book of Revelation"
+      ],
+      "source_category": "random",
+      "target_category": "common",
+      "combination": "random -> common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Iron Man",
+      "found": true,
+      "time_taken": 17.72306469999603,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Israel",
+        "Iron Age II",
+        "Iron",
+        "Iron (metaphor)",
+        "Iron Man"
+      ],
+      "source_category": "random",
+      "target_category": "common",
+      "combination": "random -> common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Sirius",
+      "found": true,
+      "time_taken": 17.313900599983754,
+      "path_length": 7,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Jersey",
+        "The Guardian",
+        "Sky Max",
+        "Sky Magazine",
+        "The Sky (magazine)",
+        "Astronomy",
+        "Sirius"
+      ],
+      "source_category": "random",
+      "target_category": "common",
+      "combination": "random -> common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Ronaldinho",
+      "found": true,
+      "time_taken": 5.04702769999858,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "England",
+        "FIFA",
+        "Real Madrid CF",
+        "Ronaldinho"
+      ],
+      "source_category": "random",
+      "target_category": "common",
+      "combination": "random -> common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Snake",
+      "found": true,
+      "time_taken": 6.694735600001877,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Jersey",
+        "Barred grass snake",
+        "Snake"
+      ],
+      "source_category": "random",
+      "target_category": "common",
+      "combination": "random -> common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Ælfwynn, wife of Æthelstan Half-King",
+      "found": true,
+      "time_taken": 4.396253100014292,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Wales",
+        "Anglo-Saxons",
+        "Edgar, King of England",
+        "Ælfwynn, wife of Æthelstan Half-King"
+      ],
+      "source_category": "random",
+      "target_category": "semi_common",
+      "combination": "random -> semi_common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Æthelred I of Wessex",
+      "found": true,
+      "time_taken": 3.9271027000213508,
+      "path_length": 3,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "England",
+        "Timeline of English history",
+        "Æthelred I of Wessex"
+      ],
+      "source_category": "random",
+      "target_category": "semi_common",
+      "combination": "random -> semi_common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "18th-century glassmaking in the United States",
+      "found": true,
+      "time_taken": 10.296581600006903,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Jersey",
+        "Stained glass",
+        "Art glass",
+        "Glass history",
+        "18th century glassmaking in the United States",
+        "18th-century glassmaking in the United States"
+      ],
+      "source_category": "random",
+      "target_category": "semi_common",
+      "combination": "random -> semi_common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "U.S. Route 13 Business (Wilmington, Delaware)",
+      "found": true,
+      "time_taken": 4.1753771000076085,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Jersey",
+        "New Jersey",
+        "Wilmington, Delaware",
+        "U.S. Route 13 Business (Wilmington, Delaware)"
+      ],
+      "source_category": "random",
+      "target_category": "semi_common",
+      "combination": "random -> semi_common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "19th Mechanized Division (Greece)",
+      "found": true,
+      "time_taken": 10.753723900008481,
+      "path_length": 17,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "European Championship",
+        "2025 in sports",
+        "2025 Pan American Cadets and Juniors Fencing Championships",
+        "2026 CE",
+        "2026",
+        "2026 in Spain",
+        "2026 in France",
+        "2026 in Germany",
+        "2027 in Germany",
+        "2027 in Europe",
+        "2024 in Europe",
+        "2024 in the European Union",
+        "2010 in the European Union",
+        "2010 in Germany",
+        "Timeline of German history",
+        "German invasion of Greece",
+        "19th Mechanized Division (Greece)"
+      ],
+      "source_category": "random",
+      "target_category": "semi_common",
+      "combination": "random -> semi_common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "1994–95 Gillingham F.C. season",
+      "found": true,
+      "time_taken": 6.844171200005803,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "2024 Euro Beach Soccer League",
+        "Post-season",
+        "Gillingham F.C.",
+        "2024–25 EFL Championship",
+        "2024–25 Gillingham F.C. season",
+        "1994–95 Gillingham F.C. season"
+      ],
+      "source_category": "random",
+      "target_category": "semi_common",
+      "combination": "random -> semi_common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "1906–07 New Brompton F.C. season",
+      "found": true,
+      "time_taken": 29.04189170000609,
+      "path_length": 21,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "2024 Men's EuroHockey Indoor Championship",
+        "2024 Rugby Europe Championship",
+        "2024 in sports",
+        "2024–25 UEFA Champions League qualifying",
+        "2024-25 UEFA Nations League D",
+        "2024–25 UEFA Nations League D",
+        "2025 UEFA European Under-19 Championship qualification",
+        "2028 UEFA European Under-19 Championship",
+        "2027 UEFA European Under-19 Championship",
+        "2026 UEFA European Under-19 Championship qualification",
+        "2026 UEFA Europa League final",
+        "2025–26 EFL Cup",
+        "2025–26 Combined Counties Football League",
+        "2025-26 AFC Bournemouth season",
+        "2025–26 AFC Bournemouth season",
+        "2025-26 AFC Wimbledon season",
+        "2025–26 AFC Wimbledon season",
+        "2025-26 EFL Trophy",
+        "2025–26 EFL Trophy",
+        "2025–26 Gillingham F.C. season",
+        "1906–07 New Brompton F.C. season"
+      ],
+      "source_category": "random",
+      "target_category": "semi_common",
+      "combination": "random -> semi_common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Battle of Albuera",
+      "found": true,
+      "time_taken": 7.511170300014783,
+      "path_length": 11,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Ayr",
+        "Battle of Passchendaele",
+        "Battle of Mărășești",
+        "Battle of Bazargic",
+        "Battle of Kruševac",
+        "Battle of Aleksinac",
+        "Battle of Mohács",
+        "European Union",
+        "History of Europe",
+        "Battle of Waterloo",
+        "Battle of Albuera"
+      ],
+      "source_category": "random",
+      "target_category": "semi_common",
+      "combination": "random -> semi_common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "28th Virginia battle flag",
+      "found": true,
+      "time_taken": 15.486813800001983,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Guernsey",
+        "Flag of Guernsey",
+        "Civil flag",
+        "Flags of the Confederate States of America",
+        "28th Virginia Infantry Regiment",
+        "28th Virginia battle flag"
+      ],
+      "source_category": "random",
+      "target_category": "semi_common",
+      "combination": "random -> semi_common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "7 (New York City Subway service)",
+      "found": true,
+      "time_taken": 8.379940899991198,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "2024 in sports",
+        "New York Liberty",
+        "Arthur Ashe Stadium",
+        "7 (New York City Subway service)"
+      ],
+      "source_category": "random",
+      "target_category": "semi_common",
+      "combination": "random -> semi_common"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Jazan City for Primary and Downstream Industries",
+      "found": true,
+      "time_taken": 14.417852799990214,
+      "path_length": 8,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "2024 TCR Europe Touring Car Series",
+        "2024 Rugby Europe Championship",
+        "2024 in sports",
+        "2024 UEFA Super Cup",
+        "2024 in association football",
+        "2023–24 Saudi Third Division",
+        "Jazan Province",
+        "Jazan City for Primary and Downstream Industries"
+      ],
+      "source_category": "random",
+      "target_category": "random",
+      "combination": "random -> random"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Falling in Love Again (2003 film)",
+      "found": true,
+      "time_taken": 7.919051300006686,
+      "path_length": 7,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Nicole Rogers",
+        "University of Exeter",
+        "Vanessa Kirby",
+        "2024 Toronto International Film Festival",
+        "Mercenaire (2024 film)",
+        "Danse Macabre (2009 film)",
+        "Falling in Love Again (2003 film)"
+      ],
+      "source_category": "random",
+      "target_category": "random",
+      "combination": "random -> random"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Mag TV Na",
+      "found": true,
+      "time_taken": 38.433716400002595,
+      "path_length": 20,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "2024 IBU Open European Championships",
+        "2025 IBU Open European Championships",
+        "2025 European Diving Championships",
+        "2025 European U-23 Swimming Championships",
+        "2027",
+        "2027 in Germany",
+        "2026 in Germany",
+        "2026 in Austria",
+        "2024 in Austria",
+        "2024 in Luxembourg",
+        "2024 in San Marino",
+        "2025 in San Marino",
+        "2025 in the Netherlands",
+        "2025 in Dutch television",
+        "2025 in Scottish Television",
+        "2025 in Scottish television",
+        "2022 in Scottish television",
+        "2022 in Philippine television",
+        "2018 in Philippine television",
+        "Mag TV Na"
+      ],
+      "source_category": "random",
+      "target_category": "random",
+      "combination": "random -> random"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Arthur Chipman",
+      "found": true,
+      "time_taken": 17.04493820000789,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "IBSF European Championships 2024",
+        "2024 European Weightlifting Championships",
+        "2007 European Weightlifting Championships",
+        "2007 in sports",
+        "Winnipeg Blue Bombers",
+        "Arthur Chipman"
+      ],
+      "source_category": "random",
+      "target_category": "random",
+      "combination": "random -> random"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "2019 Gaza economic protests",
+      "found": true,
+      "time_taken": 6.076826400007121,
+      "path_length": 4,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "Israel",
+        "Gaza–Israel conflict",
+        "25th anniversary of Hamas",
+        "2019 Gaza economic protests"
+      ],
+      "source_category": "random",
+      "target_category": "random",
+      "combination": "random -> random"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Bulimoscilla",
+      "found": true,
+      "time_taken": 25.79033580000396,
+      "path_length": 14,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "European Championship",
+        "WWE European Championship",
+        "Championship unification",
+        "AEW International Championship",
+        "AEW Grand Slam (2023)",
+        "2023 in professional wrestling",
+        "2023 in archaeology",
+        "2023 in paleomammalogy",
+        "2025 in paleomalacology",
+        "Parthenina",
+        "Chrysallida limitum",
+        "Parthenina limitum",
+        "Pyramidellidae",
+        "Bulimoscilla"
+      ],
+      "source_category": "random",
+      "target_category": "random",
+      "combination": "random -> random"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "ALDH1A3",
+      "found": true,
+      "time_taken": 26.739971000002697,
+      "path_length": 18,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "2024 FIBA 3x3 Europe Cup",
+        "2024 Rugby Europe Championship",
+        "2024 in sports",
+        "2024 in American football",
+        "2024-25 NCAA football bowl games",
+        "2024–25 NCAA football bowl games",
+        "2024 LA Bowl",
+        "2021 LA Bowl",
+        "2006 Fiesta Bowl",
+        "Bowl Coalition",
+        "Big East Conference (1979–2013)",
+        "University of Pittsburgh",
+        "National Medal of Science",
+        "James Watson",
+        "Chromosome",
+        "Mitochondrion",
+        "ALDH2",
+        "ALDH1A3"
+      ],
+      "source_category": "random",
+      "target_category": "random",
+      "combination": "random -> random"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Jesse Mast",
+      "found": true,
+      "time_taken": 19.966021700005513,
+      "path_length": 6,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "2024 UEC European Cyclo-cross Championships",
+        "European Racquetball Championships",
+        "European Universities Championships",
+        "BC Games Society",
+        "Salmon Arm",
+        "Jesse Mast"
+      ],
+      "source_category": "random",
+      "target_category": "random",
+      "combination": "random -> random"
+    },
+    {
+      "start": "2024 European Bowls Championships",
+      "target": "Sashi Mahendra Singh",
+      "found": true,
+      "time_taken": 11.04519450000953,
+      "path_length": 5,
+      "status": "reached",
+      "path": [
+        "2024 European Bowls Championships",
+        "2024 Rugby Europe Championship",
+        "2024 in sports",
+        "2024 OFC Men's Nations Cup",
+        "1973 Oceania Cup squads",
+        "Sashi Mahendra Singh"
+      ],
+      "source_category": "random",
+      "target_category": "random",
+      "combination": "random -> random"
+    },
+    {
+      "start": "Jazan City for Primary and Downstream Industries",
+      "target": "2024 European Bowls Championships",
+      "found": true,
+      "time_taken": 38.7875875000027,
+      "path_length": 21,
+      "status": "reached",
+      "path": [
+        "Jazan City for Primary and Downstream Industries",
+        "Football in Saudi Arabia",
+        "2024–25 AFC Champions League Elite",
+        "2024 in association football",
+        "UEFA Euro 2024",
+        "2024 European Athletics Championships",
+        "2024 European Cross Country Championships",
+        "2026 European Athletics Championships",
+        "2022 European Athletics Championships",
+        "2023 European Cross Country Championships",
+        "2023 European 10 m Events Championships",
+        "2024 European 10 m Events Championships",
+        "2024 European BMX Championships",
+        "2024 Rugby Europe Championship",
+        "2024–25 Rugby Europe International Championships",
+        "Ankara",
+        "Malaysia",
+        "Malaysia at the Olympics",
+        "Malaysia at the Commonwealth Games",
+        "Malaysia at the 2022 Commonwealth Games",
+        "Ross Davis (bowls)",
+        "2024 European Bowls Championships"
+      ],
+      "source_category": "random",
+      "target_category": "random",
+      "combination": "random -> random"
+    }
+  ]
+}
