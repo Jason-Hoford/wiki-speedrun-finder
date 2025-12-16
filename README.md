@@ -130,9 +130,9 @@ The system is built on a modular architecture:
 │      main.py       │ Entry Point
 └─────────┬──────────┘
           │
-┌─────────▼──────────┐
+┌─────────▼───────────────┐
 │ bidirectional_walker.py │  <-- The Brain (Orchestrator)
-└────┬─────────┬─────┘
+└────┬─────────┬──────────┘
      │         │
 ┌────▼────┐  ┌─▼────────┐
 │ wiki_api│  │embeddings│
