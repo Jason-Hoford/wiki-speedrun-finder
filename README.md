@@ -93,24 +93,29 @@ python visualize_path.py "Tyrannosaurus" "COVID-19 pandemic"
 ```
 This generates `path_visualization.png`.
 
-### 3. Run Benchmark Suite
-To verify the system against a large set of random page combinations:
+### 3. Generate Benchmark Data (Optional)
+To create a fresh dataset of Wikipedia pages (Common, Semi-Common, Random) for testing:
+
+```bash
+python collect_wiki_pages.py
+```
+This scrapes Wikipedia and updates `wiki_pages.json`.
+
+### 4. Run Benchmark Suite
+To verify the system against the dataset:
 
 ```bash
 python test_wiki_combinations.py
 ```
-This script:
-1. Loads/Scrapes pages defined in `wiki_pages.json`.
-2. Runs the walker on 90+ random combinations.
-3. Saves results to `test_results.json`.
+This runs the walker on 90+ random combinations and saves results to `test_results.json`.
 
-### 4. Generate Analysis Graphs
+### 5. Generate Analysis Graphs
 After running the benchmarks, create the performance graphs:
 
 ```bash
 python generate_graphs.py
 ```
-This creates high-resolution plots in the `graphs/` folder and a `combined_dashboard.png`.
+This creates high-resolution plots in the `graphs/` folder using data from `test_results.json`.
 
 ---
 
@@ -125,9 +130,9 @@ The system is built on a modular architecture:
 │      main.py       │ Entry Point
 └─────────┬──────────┘
           │
-┌─────────▼───────────────┐
+┌─────────▼──────────┐
 │ bidirectional_walker.py │  <-- The Brain (Orchestrator)
-└────┬─────────┬──────────┘
+└────┬─────────┬─────┘
      │         │
 ┌────▼────┐  ┌─▼────────┐
 │ wiki_api│  │embeddings│
@@ -159,9 +164,9 @@ We use the **SentenceTransformer** model (`all-MiniLM-L6-v2`) to convert page ti
 
 ### Caching System
 
-To ensure blazing fast performance on repeat runs:
-- **`link_cache.py`**: Stores the outgoing/incoming links of every page visited.
-- **`embeddings.py`**: Stores the computed vectors for every title on disk (`embedding_cache.pkl`).
+To ensure blazing fast performance on repeat runs, we use persistent caching:
+- **`link_cache.py` / `links_cache.pkl`**: Stores the outgoing/incoming links of every page visited.
+- **`embeddings.py` / `embedding_cache.pkl`**: Stores the computed vectors for every title on disk.
 - **`wiki_api.py`**: Uses a `requests.Session` with connection pooling to keep TCP connections open.
 
 ---
@@ -179,6 +184,7 @@ Wiki_Speed/
 ├── visualize_path.py            # Visualization tool (PCA projection)
 ├── test_wiki_combinations.py    # Benchmark suite
 ├── generate_graphs.py           # Statistical analysis tool
+├── collect_wiki_pages.py        # Utility to scrape fresh Wiki data
 │
 ├── bidirectional_walker.py      # CORE ALGORITHM (Bidirectional Beam Search)
 ├── embeddings.py                # SentenceTransformer wrapper & caching
@@ -187,6 +193,9 @@ Wiki_Speed/
 ├── safe_print.py                # Unicode safe printing utility
 │
 ├── wiki_pages.json              # Dataset of pages for testing
+├── test_results.json            # Output results from benchmarks
+├── embedding_cache.pkl          # Binary cache of semantic vectors
+├── links_cache.pkl              # Binary cache of page links
 ├── graphs/                      # Generated performance graphs
 │   ├── 1_success_rate_heatmap.png
 │   ├── 2_time_taken_heatmap.png
@@ -219,7 +228,7 @@ The bidirectional algorithm achieves **100% success rate** on standard test sets
 | Metric | Performance   |
 | :--- |:--------------|
 | **Success Rate** | **100%**      |
-| **Avg Time (Close)** | **~5-12s**    |
+| **Avg Time (Close)** | **~4-12s**    |
 | **Avg Time (Far)** | **~13-21s**   |
 | **Avg Path Length** | **4-6 steps** |
 
